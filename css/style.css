@@ -1,0 +1,29 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 200px;
+  text-align: center;
+  color: white
+}
+
+table {
+  margin: 0 auto;
+  background-color: whitesmoke;
+  table-layout: fixed;
+  height: 500px;
+  width: 600px;
+}
+
+td {
+  background-color: whitesmoke;
+  color: whitesmoke;
+}
+
+#restart {
+  margin: 20px;
+}
+
+#output {
+  padding: 10px;
+  font-size: 23px;
+}
